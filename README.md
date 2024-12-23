@@ -22,11 +22,11 @@
 
 ### Fs Dark++
 
-[![Dark theme screenshot](./img/screenshot-dark.png)](https://raw.githubusercontent.com/fergsosa/theme-italic-fs/refs/heads/main/img/screenshot-dark.png)
+<a href="https://raw.githubusercontent.com/fergsosa/theme-italic-fs/refs/heads/main/img/screenshot-dark.png" target="_blank"><img src="./img/screenshot-dark.png" alt="Dark theme screenshot"></a>
 
 ### Fs Light++
 
-[![Light theme screenshot](./img/screenshot-light.png)](https://raw.githubusercontent.com/fergsosa/theme-italic-fs/refs/heads/main/img/screenshot-light.png)
+<a href="https://raw.githubusercontent.com/fergsosa/theme-italic-fs/refs/heads/main/img/screenshot-light.png" target="_blank"><img src="./img/screenshot-light.png" alt="Light theme screenshot"></a>
 
 ---
 
