@@ -22,11 +22,25 @@
 
 ### Fs Dark++
 
-<a href="https://raw.githubusercontent.com/fergsosa/theme-italic-fs/refs/heads/main/img/screenshot-dark.png" target="_blank"><img src="./img/screenshot-dark.png" alt="Dark theme screenshot"></a>
+<a href="https://raw.githubusercontent.com/fergsosa/theme-italic-fs/refs/heads/main/img/screenshot-dark.png" target="_blank">
+  <img src="./img/screenshot-dark.png" alt="Dark theme screenshot">
+</a>
 
 ### Fs Light++
 
-<a href="https://raw.githubusercontent.com/fergsosa/theme-italic-fs/refs/heads/main/img/screenshot-light.png" target="_blank"><img src="./img/screenshot-light.png" alt="Light theme screenshot"></a>
+<a href="https://raw.githubusercontent.com/fergsosa/theme-italic-fs/refs/heads/main/img/screenshot-light.png" target="_blank">
+  <img src="./img/screenshot-light.png" alt="Light theme screenshot">
+</a>
+
+---
+
+### [+] Theme installation
+
+In VSCode press `ctrl/command + p` to launch the command palette, then run the command:
+
+```json
+  ext install cod-fs.theme-italic-fs
+```
 
 ---
 
