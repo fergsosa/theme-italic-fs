@@ -1,0 +1,36 @@
+{
+  "name": "theme-italic-fs",
+  "displayName": "Theme Italic FS",
+  "description": "Theme Dark/Light",
+  "publisher": "cod-fs",
+  "version": "0.0.1",
+  "icon": "icon-fs.png",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "author": {
+    "name": "Fernando Sosa",
+    "email": "fer.sosa.info@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fergsosa/theme-italic-fs.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fs Dark++",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Theme-Dark-italic.json"
+      },
+      {
+        "label": "Fs Light++",
+        "uiTheme": "vs",
+        "path": "./themes/Theme-Light-italic.json"
+      }
+    ]
+  }
+}
