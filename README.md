@@ -38,8 +38,8 @@
 
 In VSCode press `ctrl/command + p` to launch the command palette, then run the command:
 
-```json
-  ext install cod-fs.theme-italic-fs
+```bash
+ext install cod-fs.theme-italic-fs
 ```
 
 ---
