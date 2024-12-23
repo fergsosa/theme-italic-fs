@@ -3,7 +3,7 @@
   "displayName": "Theme Italic FS",
   "description": "Theme Dark/Light",
   "publisher": "cod-fs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "icon-fs.png",
   "engines": {
     "vscode": "^1.96.0"
